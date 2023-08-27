@@ -1,0 +1,44 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+*/
+
+body{
+  background-color: #fef9ef;
+}
+.Screen{
+  background-Color:#ced4da;
+  padding:0px 30px 0px 30px;
+  margin-bottom:40px;
+  box-shadow:0px 1px 10px black;
+}
+.videoSection{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.start-stop{
+  display: flex;
+  justify-content: center;
+}
+.VideoDimension{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap:5px;
+
+}
+.WebCamDimension{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+
+}
+
